@@ -14,6 +14,10 @@
 		2EC80F6A224FD8C7007772B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2EC80F68224FD8C7007772B8 /* LaunchScreen.storyboard */; };
 		2EC80F75224FD8C7007772B8 /* FakeinstagramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC80F74224FD8C7007772B8 /* FakeinstagramTests.swift */; };
 		2EC80F80224FD8C7007772B8 /* FakeinstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC80F7F224FD8C7007772B8 /* FakeinstagramUITests.swift */; };
+		2EC80F8E224FE9F4007772B8 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC80F8D224FE9F4007772B8 /* HomeViewController.swift */; };
+		2EC80F90224FEE46007772B8 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC80F8F224FEE46007772B8 /* MyCollectionViewCell.swift */; };
+		2EC80F92224FF100007772B8 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC80F91224FF100007772B8 /* ProfileViewController.swift */; };
+		2EC80F94224FF8F1007772B8 /* ProfUIImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2EC80F93224FF8F1007772B8 /* ProfUIImageView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +51,10 @@
 		2EC80F7B224FD8C7007772B8 /* FakeinstagramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FakeinstagramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2EC80F7F224FD8C7007772B8 /* FakeinstagramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FakeinstagramUITests.swift; sourceTree = "<group>"; };
 		2EC80F81224FD8C7007772B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2EC80F8D224FE9F4007772B8 /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		2EC80F8F224FEE46007772B8 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
+		2EC80F91224FF100007772B8 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		2EC80F93224FF8F1007772B8 /* ProfUIImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfUIImageView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +111,10 @@
 				2EC80F66224FD8C7007772B8 /* Assets.xcassets */,
 				2EC80F68224FD8C7007772B8 /* LaunchScreen.storyboard */,
 				2EC80F6B224FD8C7007772B8 /* Info.plist */,
+				2EC80F8D224FE9F4007772B8 /* HomeViewController.swift */,
+				2EC80F8F224FEE46007772B8 /* MyCollectionViewCell.swift */,
+				2EC80F91224FF100007772B8 /* ProfileViewController.swift */,
+				2EC80F93224FF8F1007772B8 /* ProfUIImageView.swift */,
 			);
 			path = Fakeinstagram;
 			sourceTree = "<group>";
@@ -258,6 +270,10 @@
 			files = (
 				2EC80F62224FD8C6007772B8 /* ViewController.swift in Sources */,
 				2EC80F60224FD8C6007772B8 /* AppDelegate.swift in Sources */,
+				2EC80F92224FF100007772B8 /* ProfileViewController.swift in Sources */,
+				2EC80F90224FEE46007772B8 /* MyCollectionViewCell.swift in Sources */,
+				2EC80F8E224FE9F4007772B8 /* HomeViewController.swift in Sources */,
+				2EC80F94224FF8F1007772B8 /* ProfUIImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
